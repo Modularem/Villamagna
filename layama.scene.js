@@ -3,8 +3,8 @@
 function getLayamaCameras()
 {
    var layamaCameras = new BABYLON.SmartArray(0);
-   layamaCameras.push({n: "Layama0002", a: "CineCameraActor_3", p: new BABYLON.Vector3(-1216.48, 496.675, -3271.95), l: new BABYLON.Vector3(-1215.48, 496.675, -3271.89)});
-   layamaCameras.push({n: "Layama0009", a: "CineCameraActor_2", p: new BABYLON.Vector3(-727.002, 496.675, -3274.01), l: new BABYLON.Vector3(-726.004, 496.675, -3273.94)});
+   layamaCameras.push({n: "Layama0002", a: "CineCameraActor_3", p: new BABYLON.Vector3(-1216.48, 490.056, -3236.1), l: new BABYLON.Vector3(-1215.48, 490.056, -3236.04)});
+   layamaCameras.push({n: "Layama0009", a: "CineCameraActor_2", p: new BABYLON.Vector3(-727.002, 496.675, -3124.2), l: new BABYLON.Vector3(-726.004, 496.675, -3124.13)});
    layamaCameras.push({n: "Layama0016", a: "CineCameraActor_4", p: new BABYLON.Vector3(-289.307, 487.648, -3218.46), l: new BABYLON.Vector3(-288.309, 487.648, -3218.4)});
    layamaCameras.push({n: "Layama0023", a: "CineCameraActor_5", p: new BABYLON.Vector3(-4.39629, 458.288, -2730.96), l: new BABYLON.Vector3(-4.6784, 458.288, -2731.91)});
    layamaCameras.push({n: "Layama0030", a: "CineCameraActor_6", p: new BABYLON.Vector3(-210.324, 485.913, -2741.48), l: new BABYLON.Vector3(-209.77, 485.913, -2742.31)});
@@ -48,6 +48,9 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0296", a: "CineCameraActor_0", p: new BABYLON.Vector3(26.4928, 461.155, -3225.99), l: new BABYLON.Vector3(27.4866, 461.155, -3226.11)});
    layamaCameras.push({n: "Layama0303", a: "CineCameraActor_1", p: new BABYLON.Vector3(488.116, 486.416, -3265.38), l: new BABYLON.Vector3(489.114, 486.465, -3265.38)});
    layamaCameras.push({n: "Layama0310", a: "CineCameraActor_34", p: new BABYLON.Vector3(-395.423, 496.675, -3345.24), l: new BABYLON.Vector3(-394.83, 496.675, -3344.44)});
+   layamaCameras.push({n: "Layama0317", a: "CineCameraActor_45", p: new BABYLON.Vector3(-1154.04, 368.008, -2628.08), l: new BABYLON.Vector3(-1153.08, 368.008, -2628.37)});
+   layamaCameras.push({n: "Layama0324", a: "CineCameraActor_46", p: new BABYLON.Vector3(-979.306, 444.566, -2902.58), l: new BABYLON.Vector3(-978.308, 444.566, -2902.52)});
+   layamaCameras.push({n: "Layama0331", a: "CineCameraActor_47", p: new BABYLON.Vector3(-661.999, 496.675, -3375.07), l: new BABYLON.Vector3(-661.082, 496.675, -3374.67)});
    return layamaCameras;
 }
 
