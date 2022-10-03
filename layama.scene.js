@@ -51,6 +51,7 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0317", a: "CineCameraActor_45", p: new BABYLON.Vector3(-1154.04, 368.008, -2628.08), l: new BABYLON.Vector3(-1153.08, 368.008, -2628.37)});
    layamaCameras.push({n: "Layama0324", a: "CineCameraActor_46", p: new BABYLON.Vector3(-979.306, 444.566, -2902.58), l: new BABYLON.Vector3(-978.308, 444.566, -2902.52)});
    layamaCameras.push({n: "Layama0331", a: "CineCameraActor_47", p: new BABYLON.Vector3(-661.999, 496.675, -3375.07), l: new BABYLON.Vector3(-661.082, 496.675, -3374.67)});
+   layamaCameras.push({n: "Layama0338", a: "CineCameraActor_48", p: new BABYLON.Vector3(1156.39, 125.827, -3085.01), l: new BABYLON.Vector3(1157.39, 125.827, -3084.95)});
    return layamaCameras;
 }
 
