@@ -71,6 +71,7 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0457", a: "CineCameraActor_65", p: new BABYLON.Vector3(854.765, 1068.58, -3011.77), l: new BABYLON.Vector3(855.763, 1068.58, -3011.7)});
    layamaCameras.push({n: "Layama0464", a: "CineCameraActor_66", p: new BABYLON.Vector3(854.765, 1068.51, -2896.12), l: new BABYLON.Vector3(855.737, 1068.51, -2895.89)});
    layamaCameras.push({n: "Layama0471", a: "CineCameraActor_67", p: new BABYLON.Vector3(239.216, 934.204, -2841.01), l: new BABYLON.Vector3(238.218, 934.204, -2841.08)});
+   layamaCameras.push({n: "Layama0478", a: "CineCameraActor_68", p: new BABYLON.Vector3(-1320.96, 591.243, -3710.87), l: new BABYLON.Vector3(-1320.13, 591.243, -3710.32)});
    return layamaCameras;
 }
 
@@ -90,5 +91,18 @@ function getOnScreenLogoUsage()
 function getLayamaControls()
 {
    return {defMove: false, defRot: 1, altMove: true, altRot: 2};
+}
+
+function getLayamaFOV()
+{
+   return 0.6;
+}
+
+function getLayamaAlternatives()
+{
+   var layamaAlternatives = new BABYLON.SmartArray(0);
+   layamaAlternatives.push({n: "base", u: "./jpg/base/", i:"./jpg/ico.png"});
+   layamaAlternatives.push({n: "Alternative_1", u: "./jpg/Alternative_1/", i:"./jpg/ico.png",s:["CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49","CineCameraActor_49"]});
+   return layamaAlternatives;
 }
 
