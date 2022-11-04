@@ -10,7 +10,7 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0030", a: "CineCameraActor_6", p: new BABYLON.Vector3(-210.324, 485.913, -2741.48), l: new BABYLON.Vector3(-209.77, 485.913, -2742.31)});
    layamaCameras.push({n: "Layama0037", a: "CineCameraActor_7", p: new BABYLON.Vector3(-58.1166, 502.101, -3094.5), l: new BABYLON.Vector3(-57.563, 502.101, -3095.33)});
    layamaCameras.push({n: "Layama0044", a: "CineCameraActor_8", p: new BABYLON.Vector3(375.252, 446.823, -2700), l: new BABYLON.Vector3(375.806, 446.823, -2700.83)});
-   layamaCameras.push({n: "Layama0051", a: "CineCameraActor_9", p: new BABYLON.Vector3(598.875, 446.823, -2700), l: new BABYLON.Vector3(598.938, 446.823, -2701)});
+   layamaCameras.push({n: "Layama0051", a: "CineCameraActor_9", p: new BABYLON.Vector3(598.875, 446.823, -2705.29), l: new BABYLON.Vector3(598.938, 446.823, -2706.29)});
    layamaCameras.push({n: "Layama0058", a: "CineCameraActor_10", p: new BABYLON.Vector3(1062.01, 446.823, -2695.28), l: new BABYLON.Vector3(1061.18, 446.823, -2695.84)});
    layamaCameras.push({n: "Layama0065", a: "CineCameraActor_11", p: new BABYLON.Vector3(1089.74, 446.823, -2971.09), l: new BABYLON.Vector3(1089.98, 446.823, -2972.07)});
    layamaCameras.push({n: "Layama0072", a: "CineCameraActor_12", p: new BABYLON.Vector3(746.782, 446.823, -3090.1), l: new BABYLON.Vector3(745.977, 446.823, -3089.51)});
@@ -28,7 +28,7 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0156", a: "CineCameraActor_24", p: new BABYLON.Vector3(1042.05, 777.206, -3045.1), l: new BABYLON.Vector3(1041.82, 777.206, -3044.13)});
    layamaCameras.push({n: "Layama0163", a: "CineCameraActor_25", p: new BABYLON.Vector3(-30.7156, 778.523, -2769.77), l: new BABYLON.Vector3(-30.6526, 778.523, -2770.77)});
    layamaCameras.push({n: "Layama0170", a: "CineCameraActor_26", p: new BABYLON.Vector3(-231.637, 778.523, -3083.01), l: new BABYLON.Vector3(-230.804, 778.523, -3082.46)});
-   layamaCameras.push({n: "Layama0177", a: "CineCameraActor_27", p: new BABYLON.Vector3(474.152, 235.332, -3359.72), l: new BABYLON.Vector3(475.124, 235.332, -3359.48)});
+   layamaCameras.push({n: "Layama0177", a: "CineCameraActor_27", p: new BABYLON.Vector3(436.684, 270.14, -3359.72), l: new BABYLON.Vector3(437.655, 270.14, -3359.48)});
    layamaCameras.push({n: "Layama0184", a: "CineCameraActor_28", p: new BABYLON.Vector3(179.163, 437.993, -3365.99), l: new BABYLON.Vector3(180.157, 437.993, -3366.1)});
    layamaCameras.push({n: "Layama0191", a: "CineCameraActor_29", p: new BABYLON.Vector3(759.037, 169.464, -3359.72), l: new BABYLON.Vector3(760.009, 169.464, -3359.48)});
    layamaCameras.push({n: "Layama0198", a: "CineCameraActor_30", p: new BABYLON.Vector3(583.606, 169.464, -3240.53), l: new BABYLON.Vector3(584.604, 169.464, -3240.47)});
@@ -39,9 +39,9 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0233", a: "CineCameraActor_36", p: new BABYLON.Vector3(1345.83, 125.827, -3230.86), l: new BABYLON.Vector3(1346.12, 125.827, -3229.9)});
    layamaCameras.push({n: "Layama0240", a: "CineCameraActor_37", p: new BABYLON.Vector3(963.773, 135.789, -3317.5), l: new BABYLON.Vector3(964.689, 135.789, -3317.1)});
    layamaCameras.push({n: "Layama0247", a: "CineCameraActor_38", p: new BABYLON.Vector3(969.017, 135.789, -2813.17), l: new BABYLON.Vector3(969.822, 135.789, -2813.77)});
-   layamaCameras.push({n: "Layama0254", a: "CineCameraActor_39", p: new BABYLON.Vector3(308.348, 169.464, -3240.53), l: new BABYLON.Vector3(309.346, 169.464, -3240.47)});
+   layamaCameras.push({n: "Layama0254", a: "CineCameraActor_39", p: new BABYLON.Vector3(232.795, 166.34, -3240.53), l: new BABYLON.Vector3(233.793, 166.34, -3240.47)});
    layamaCameras.push({n: "Layama0261", a: "CineCameraActor_40", p: new BABYLON.Vector3(389.496, 169.464, -3041.72), l: new BABYLON.Vector3(389.778, 169.464, -3040.76)});
-   layamaCameras.push({n: "Layama0268", a: "CineCameraActor_41", p: new BABYLON.Vector3(583.606, 169.464, -2966.48), l: new BABYLON.Vector3(583.718, 169.464, -2965.49)});
+   layamaCameras.push({n: "Layama0268", a: "CineCameraActor_41", p: new BABYLON.Vector3(583.606, 169.464, -3033.07), l: new BABYLON.Vector3(584.296, 169.464, -3033.8)});
    layamaCameras.push({n: "Layama0275", a: "CineCameraActor_42", p: new BABYLON.Vector3(30.8177, 777.206, -3062.67), l: new BABYLON.Vector3(29.9219, 777.206, -3062.23)});
    layamaCameras.push({n: "Layama0282", a: "CineCameraActor_43", p: new BABYLON.Vector3(584.777, 777.206, -3085.34), l: new BABYLON.Vector3(585.775, 777.206, -3085.28)});
    layamaCameras.push({n: "Layama0289", a: "CineCameraActor_44", p: new BABYLON.Vector3(746.565, 412.268, -3341.78), l: new BABYLON.Vector3(745.76, 412.268, -3341.19)});
@@ -52,6 +52,17 @@ function getLayamaCameras()
    layamaCameras.push({n: "Layama0324", a: "CineCameraActor_46", p: new BABYLON.Vector3(-979.306, 444.566, -2902.58), l: new BABYLON.Vector3(-978.308, 444.566, -2902.52)});
    layamaCameras.push({n: "Layama0331", a: "CineCameraActor_47", p: new BABYLON.Vector3(-661.999, 496.675, -3375.07), l: new BABYLON.Vector3(-661.082, 496.675, -3374.67)});
    layamaCameras.push({n: "Layama0338", a: "CineCameraActor_48", p: new BABYLON.Vector3(1156.39, 125.827, -3085.01), l: new BABYLON.Vector3(1157.39, 125.827, -3084.95)});
+   layamaCameras.push({n: "Layama0345", a: "CineCameraActor_49", p: new BABYLON.Vector3(963.773, 135.789, -3211.77), l: new BABYLON.Vector3(964.669, 135.789, -3212.22)});
+   layamaCameras.push({n: "Layama0352", a: "CineCameraActor_50", p: new BABYLON.Vector3(436.684, 218.651, -3173.95), l: new BABYLON.Vector3(436.62, 218.651, -3172.96)});
+   layamaCameras.push({n: "Layama0359", a: "CineCameraActor_51", p: new BABYLON.Vector3(278.438, 166.34, -3075.38), l: new BABYLON.Vector3(278.375, 166.34, -3074.38)});
+   layamaCameras.push({n: "Layama0366", a: "CineCameraActor_52", p: new BABYLON.Vector3(278.438, 166.34, -2876.07), l: new BABYLON.Vector3(277.466, 166.34, -2876.3)});
+   layamaCameras.push({n: "Layama0373", a: "CineCameraActor_53", p: new BABYLON.Vector3(336.103, 1076.46, -3079.23), l: new BABYLON.Vector3(337.101, 1076.46, -3079.16)});
+   layamaCameras.push({n: "Layama0380", a: "CineCameraActor_54", p: new BABYLON.Vector3(136.426, 1076.46, -3079.23), l: new BABYLON.Vector3(137.424, 1076.46, -3079.16)});
+   layamaCameras.push({n: "Layama0387", a: "CineCameraActor_55", p: new BABYLON.Vector3(106.778, 1044.95, -2908.9), l: new BABYLON.Vector3(107.014, 1044.95, -2909.87)});
+   layamaCameras.push({n: "Layama0394", a: "CineCameraActor_56", p: new BABYLON.Vector3(106.778, 976.983, -2836.36), l: new BABYLON.Vector3(106.841, 976.983, -2837.36)});
+   layamaCameras.push({n: "Layama0401", a: "CineCameraActor_57", p: new BABYLON.Vector3(325.496, 873.61, -2851.64), l: new BABYLON.Vector3(324.498, 873.61, -2851.7)});
+   layamaCameras.push({n: "Layama0408", a: "CineCameraActor_58", p: new BABYLON.Vector3(325.496, 803.839, -2978.02), l: new BABYLON.Vector3(325.433, 803.839, -2977.02)});
+   layamaCameras.push({n: "Layama0415", a: "CineCameraActor_59", p: new BABYLON.Vector3(280.846, 458.288, -2708.08), l: new BABYLON.Vector3(281.805, 458.288, -2708.36)});
    return layamaCameras;
 }
 
